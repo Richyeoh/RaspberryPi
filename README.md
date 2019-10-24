@@ -26,4 +26,4 @@ network={
 
 5、弹出SD Card，插入树莓派，插入电源
 
-6、输入ssh pi@raspberrypi.local 进入树莓派(默认密码为:raspberrypi)
+6、输入ssh pi@raspberrypi.local 进入树莓派(默认密码为:raspberry)
